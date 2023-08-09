@@ -1,0 +1,40 @@
+.header{
+background-color: rgb(216, 216, 64);
+text-align: center;
+padding: 12px;
+}
+
+.nav-menu{
+    overflow: hidden;
+    background-color: black;
+}
+
+.nav-menu a{
+    float: left;
+    text-align: center;
+    display: block;
+    color: white;
+    padding: 8px;
+    text-decoration: none;
+}
+
+.nav-menu a:hover{
+    background-color: chartreuse;
+    color: black;
+}
+
+.colA, .colB, .colC {
+    float: left;
+    width: 30%;
+    padding: 12px;
+    text-align: justify;
+}
+
+h2{
+    color: rgba(237, 143, 19, 0.99);
+    text-align: center;
+}
+
+.colB{
+    text-align: center;
+}

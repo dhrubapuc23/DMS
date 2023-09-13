@@ -1,0 +1,5 @@
+Create table login_info (
+    id int AUTO_INCREMENT PRIMARY KEY,
+    username varchar(30) NOT NULL,
+    password varchar(30) NOT NULL
+    );
